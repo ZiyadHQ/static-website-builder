@@ -1,0 +1,7 @@
+a tool to build a simple html website to display text and image(.png and .jpg) content of a directory in a structured manner.
+
+future work:
+
+-instead of using 'file://' use http to serve files
+-add an http server than can be open to the internet to serve the contents of the generated .html pages
+-all generated .html files to be stored in a special 'generated' directory
